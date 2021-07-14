@@ -13,6 +13,8 @@ Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupChat", "SetupChat\Setu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormChat", "WinFormChat\WinFormChat.csproj", "{A0A0A569-69EB-4B1D-8F1A-ADD6CE356E28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serwer", "Serwer\Serwer.csproj", "{3EBE1017-AEF7-4AAC-B3A6-D10E0DEB6394}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{A0A0A569-69EB-4B1D-8F1A-ADD6CE356E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0A0A569-69EB-4B1D-8F1A-ADD6CE356E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0A0A569-69EB-4B1D-8F1A-ADD6CE356E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EBE1017-AEF7-4AAC-B3A6-D10E0DEB6394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EBE1017-AEF7-4AAC-B3A6-D10E0DEB6394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EBE1017-AEF7-4AAC-B3A6-D10E0DEB6394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EBE1017-AEF7-4AAC-B3A6-D10E0DEB6394}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
